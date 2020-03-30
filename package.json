@@ -1,6 +1,6 @@
 {
-  "name": "public",
-  "version": "0.0.0",
+  "name": "Visual-Paths",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
